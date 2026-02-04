@@ -138,3 +138,5 @@ __MACOSX
 # data folder
 data/
 day_1/my_logs/
+.DS_Store
+.ipynb_checkpoints/
